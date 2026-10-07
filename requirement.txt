@@ -1,0 +1,8 @@
+NumPy
+Matplotlib
+Pandas
+OpenCV
+Scikit-image
+PyWavelets
+Jupyter
+IPykernel
